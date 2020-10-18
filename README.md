@@ -1,2 +1,2 @@
-# sanskarram992-bitsindridhn
+# sanskarram992
 machine learning notebooks
